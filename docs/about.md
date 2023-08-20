@@ -3,16 +3,16 @@ layout: page
 navname: About
 ---
 
-# {{ site.serverName }}
+# {{ Sleaping Dogs }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+ is a simple, flexible template website for Minecraft servers.
 
 [GitHub](https://github.com/coffeebank/moonrise)
 
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+Sleaping Dogs MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
 
 
 # Privacy Policy
